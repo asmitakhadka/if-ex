@@ -20,12 +20,12 @@ namespace ConsoleApp1
             if (num1 > num2)
             Console.WriteLine("num1 is larger.");
 
-            else if (num2 > num1>
+            else if (num2 > num1)
             Console.WriteLine("num2 is larger");
             
             
             if (num1 == num2)
-            Console.WriteLine("The both the numbers are equal.");
+            Console.WriteLine("Both the numbers are equal.");
            
         }
     }
